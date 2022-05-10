@@ -8,5 +8,5 @@
 
 
 ## Latest Completed Projects:
-- An Ecommerce Mobile  Application to buy groceries.
+- An Ecommerce Mobile  Application to buy groceries [Project: My Shop].
 - A Food Delivery  Mobile Application  to order food and Deliver.  
