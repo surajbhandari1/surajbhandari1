@@ -1,4 +1,4 @@
-# Namaste, its me Suraj Bhandari Here from Nepal! 👋
+# Namaste, its me Suraj Bhandari  from Nepal! 👋
 
 ## Mobile application  developer | Web developer | Full Stack |
 
